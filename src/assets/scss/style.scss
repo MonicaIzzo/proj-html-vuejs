@@ -1,8 +1,23 @@
 @use '_vars.scss' as *;
-@use '_generic.scss' as *;
+@use '_generics.scss' as *;
 @use '_reset.scss' as *;
 @use '_utilities.scss' as *;
+
 
 /********************************************
     LAYOUT
 ********************************************/
+
+body {
+    //font-family: 'Ubuntu', sans-serif;
+    color: white;
+  }
+
+li {
+    list-style: none;
+}
+
+
+
+
+

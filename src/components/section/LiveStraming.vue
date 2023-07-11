@@ -4,12 +4,14 @@
 <template>
     <section class="live-straming container-fluid">
         <div class="container">
-            <h2>Live Streaming</h2>
+            <p><span class="subtitle">Live Streaming</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .live-straming {
     background-color: #7c6634;
     height: 750px;

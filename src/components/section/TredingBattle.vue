@@ -4,12 +4,14 @@
 <template>
     <section class="treding-battle container-fluid">
         <div class="container">
-            <h2>Treding Battle</h2>
+            <p><span class="subtitle">Treding Battle</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .treding-battle {
     background-color: #191935;
     height: 2000px;

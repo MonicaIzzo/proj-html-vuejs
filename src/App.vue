@@ -2,6 +2,7 @@
 // import axios from 'axios';
 //import { api } from './data';
 //import { store } from './data/store';
+import '@fontsource/ubuntu';
 import AppHeader from './components/AppHeader.vue';
 import AppMain from './components/AppMain.vue';
 import AppFooter from './components/AppFooter.vue';

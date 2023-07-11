@@ -4,14 +4,16 @@
 <template>
     <section class="our-extrem-feature container-fluid">
         <div class="container">
-            <h2>Our Extrem Feature</h2>
+            <p><span class="subtitle">Our Extrem Feature</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .our-extrem-feature {
-    background-color: #1a1943;
+    background-color: $blulight;
     height: 500px;
 }
 </style>

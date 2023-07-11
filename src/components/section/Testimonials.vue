@@ -4,14 +4,16 @@
 <template>
     <section class="testimonials container-fluid">
         <div class="container">
-            <h2>Testimonials</h2>
+            <p><span class="subtitle">Testimonials</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .testimonials {
-    background-color: #202046;
+    background-color: $bluverylight;
     height: 800px;
 }
 </style>

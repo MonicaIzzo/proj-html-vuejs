@@ -4,14 +4,16 @@
 <template>
     <section class="year-experince container-fluid">
         <div class="container">
-            <h2>12 Year Experince</h2>
+            <p><span class="subtitle">12 Year Experince</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .year-experince {
-    background-color: #191935;
+    background-color: $bludark;
     height: 250px;
 }
 </style>

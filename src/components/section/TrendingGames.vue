@@ -4,14 +4,16 @@
 <template>
     <section class="treding-games container-fluid">
         <div class="container">
-            <h2>Trending Games</h2>
+            <p><span class="subtitle">Trending Games</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .treding-games {
-    background-color: #202046;
+    background-color: $blulight;
     height: 800px;
 }
 </style>

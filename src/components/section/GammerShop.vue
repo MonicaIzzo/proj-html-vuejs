@@ -4,12 +4,14 @@
 <template>
     <section class="gammer-shop container-fluid">
         <div class="container">
-            <h2>Gammer Shop</h2>
+            <p><span class="subtitle">Gammer Shop</span></p>
         </div>
     </section>
 </template>
 
 <style lang="scss" scoped>
+@use '../../assets/scss/_vars.scss' as *;
+
 .gammer-shop {
     background-color: #47455b;
     height: 800px;
