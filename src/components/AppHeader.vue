@@ -10,6 +10,6 @@
 <style lang="scss" scoped>
 #header {
     background-color: #05cc79;
-    height: 100px;
+    height: 400px;
 }
 </style>

@@ -10,6 +10,6 @@
 <style lang="scss" scoped>
 #footer {
     background-color: #202046;
-    height: 100px;
+    height: 480px;
 }
 </style>

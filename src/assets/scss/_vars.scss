@@ -1,25 +1,4 @@
-@use '_vars.scss' as *;
-@use '_generic.scss' as *;
-@use '_reset.scss' as *;
-@use '_utilities.scss' as *;
-
-/********************************************
-    LAYOUT
-********************************************/
-body {
-    font-family: $font;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-
-}
-
-a:hover {
-    color: $primary-color;
-}
-
-ul {
-    list-style: none;
-}
+$bluscuro-color: #191935;
+$bluchiaro-color: #202046;
+$bluchiaro2-color: #343286;
+$verde-color: #05cc7b;
