@@ -19,16 +19,16 @@ export default {
 
 <template>
     <section id="main">
-        <GammerShop />
-        <LatestNews />
-        <LiveStraming />
+        <YearExperince />
         <OurExtremFeature />
-        <TeamMembers />
-        <Testimonials />
+        <LiveStraming />
         <TredingBattle />
         <TrendingGames />
         <UpComingMatch />
-        <YearExperince />
+        <TeamMembers />
+        <Testimonials />
+        <GammerShop />
+        <LatestNews />
     </section>
 </template>
 
