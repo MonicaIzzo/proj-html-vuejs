@@ -6,6 +6,7 @@
         <div class="container">
             <p><span class="subtitle">Lastest News</span></p>
             <h1 class="title">Stay Updated With our Latest News Articles</h1>
+
         </div>
     </section>
 </template>
