@@ -5,6 +5,7 @@
     <section class="live-straming container-fluid">
         <div class="container">
             <p><span class="subtitle">Live Streaming</span></p>
+            <h1 class="title">Checkout Our Live Streaming</h1>
         </div>
     </section>
 </template>

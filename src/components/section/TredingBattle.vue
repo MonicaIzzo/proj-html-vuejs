@@ -5,6 +5,7 @@
     <section class="treding-battle container-fluid">
         <div class="container">
             <p><span class="subtitle">Treding Battle</span></p>
+            <h1 class="title">Upcoming Match</h1>
         </div>
     </section>
 </template>

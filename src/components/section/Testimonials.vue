@@ -5,6 +5,7 @@
     <section class="testimonials container-fluid">
         <div class="container">
             <p><span class="subtitle">Testimonials</span></p>
+            <h1 class="title">What Our Client Say</h1>
         </div>
     </section>
 </template>

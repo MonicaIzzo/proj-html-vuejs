@@ -5,6 +5,7 @@
     <section class="treding-games container-fluid">
         <div class="container">
             <p><span class="subtitle">Trending Games</span></p>
+            <h1 class="title">Choose Who Is The Best In World!</h1>
         </div>
     </section>
 </template>

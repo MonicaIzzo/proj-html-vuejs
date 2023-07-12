@@ -5,6 +5,7 @@
     <section class="gammer-shop container-fluid">
         <div class="container">
             <p><span class="subtitle">Gammer Shop</span></p>
+            <h1 class="title">Explore Our Shop</h1>
         </div>
     </section>
 </template>

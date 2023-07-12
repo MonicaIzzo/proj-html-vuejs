@@ -64,12 +64,34 @@ export default {
                         </div>
                     </div>
                     <!-- ICONE -->
-                    <div class="debug">
-                        ICONE
+                    <div class="debug d-flex">
+                        <div class="icon">search</div>
+                        <div class="icon">icon</div>
                     </div>
                 </nav>
             </div>
         </nav>
+        <!-- ICONE -->
+        <div class="loghi">
+            <div>
+                <img src="../assets/img/1.png" alt="Logo For The King">
+            </div>
+            <div>
+                <img src="../assets/img/2.png" alt="Logo For The King">
+            </div>
+            <div>
+                <img src="../assets/img/3.png" alt="Logo Skullg">
+            </div>
+            <div>
+                <img src="../assets/img/4.png" alt="Logo Panda">
+            </div>
+            <div>
+                <img src="../assets/img/5.png" alt="Logo Witch">
+            </div>
+            <div>
+                <img src="../assets/img/6.png" alt="Logo Astro">
+            </div>
+        </div>
     </section>
 </template>
 
@@ -101,7 +123,7 @@ a {
     color: white;
     font-weight: 700;
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 16px;
     text-decoration: none;
 }
 
@@ -111,5 +133,18 @@ a .active {
 
 li {
     margin: 0 20px;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.icon {
+    background-color: white;
+    width: 45px;
+    height: 45px;
+    margin: 0 10px;
+    border-radius: 50px;
 }
 </style>
