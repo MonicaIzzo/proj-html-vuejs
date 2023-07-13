@@ -37,27 +37,54 @@
 
                     <div class="about-list-area">
                         <ul>
-                            <li>
-                                <!-- <i class="fa-solid fa-check"></i> Font Awesome fontawesome.com -->Sed porttitor lectus
+                            <li class="d-flex">
+                                <svg class="svg-inline--fa fa-check" aria-hidden="true" focusable="false" data-prefix="fas"
+                                    data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                    data-fa-i2svg="">
+                                    <path fill="currentColor"
+                                        d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z">
+                                    </path>
+                                </svg>Sed porttitor lectus
                                 nibh.
                                 Proin eget tortor
                                 risus.
                             </li>
-                            <li>
+                            <li class="d-flex">
+                                <svg class="svg-inline--fa fa-check" aria-hidden="true" focusable="false" data-prefix="fas"
+                                    data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                    data-fa-i2svg="">
+                                    <path fill="currentColor"
+                                        d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z">
+                                    </path>
+                                </svg>
                                 <!-- <i class="fa-solid fa-check"></i> Font Awesome fontawesome.com -->Praesent sapien
                                 massa,
                                 convallis a
                                 pellentesque nec.
                                 risus.
                             </li>
-                            <li>
+                            <li class="d-flex">
+                                <svg class="svg-inline--fa fa-check" aria-hidden="true" focusable="false" data-prefix="fas"
+                                    data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                    data-fa-i2svg="">
+                                    <path fill="currentColor"
+                                        d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z">
+                                    </path>
+                                </svg>
                                 <!-- <i class="fa-solid fa-check"></i> Font Awesome fontawesome.com -->Praesent sapien
                                 massa,
                                 convallis a
                                 pellentesque nec.
                                 risus.
                             </li>
-                            <li>
+                            <li class="d-flex">
+                                <svg class="svg-inline--fa fa-check" aria-hidden="true" focusable="false" data-prefix="fas"
+                                    data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+                                    data-fa-i2svg="">
+                                    <path fill="currentColor"
+                                        d="M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z">
+                                    </path>
+                                </svg>
                                 <!-- <i class="fa-solid fa-check"></i> Font Awesome fontawesome.com -->Praesent sapien
                                 massa,
                                 convallis a
@@ -65,18 +92,37 @@
                                 risus.
                             </li>
                         </ul>
-
-                        <a href="#" class="btn">
-                            Discover More
-                            <!-- <i class="fa-solid fa-right-long"></i> Font Awesome fontawesome.com -->
-                        </a>
-                        <a href="#" class="video">
-                            <!-- <i class="fas fa-play"></i> Font Awesome fontawesome.com -->
-                        </a>
-
+                        <!-- PULSANTI -->
+                        <div class="">
+                            <div class="d-flex">
+                                <div class=""><a href="#" class="btn">
+                                        Read More <svg class="svg-inline--fa fa-right-long" aria-hidden="true"
+                                            data-prefix="fas" data-icon="right-long" role="img"
+                                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
+                                            <path fill="currentColor"
+                                                d="M504.3 273.6l-112.1 104c-6.992 6.484-17.18 8.218-25.94 4.406c-8.758-3.812-14.42-12.45-14.42-21.1L351.9 288H32C14.33 288 .0002 273.7 .0002 255.1S14.33 224 32 224h319.9l0-72c0-9.547 5.66-18.19 14.42-22c8.754-3.809 18.95-2.075 25.94 4.41l112.1 104C514.6 247.9 514.6 264.1 504.3 273.6z">
+                                            </path>
+                                        </svg>
+                                    </a></div>
+                                <div class="">
+                                    <a href="#" class="video">
+                                        <svg class="svg-inline--fa fa-play" aria-hidden="true" focusable="false"
+                                            data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg"
+                                            viewBox="0 0 384 512" data-fa-i2svg="">
+                                            <path fill="currentColor"
+                                                d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z">
+                                            </path>
+                                        </svg><!-- <i class="fas fa-play"></i> Font Awesome fontawesome.com -->
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+
                 </div>
+
             </div>
+
         </div>
 
     </section>
@@ -89,36 +135,9 @@
     background-color: $bludark;
 }
 
-p {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-
 .about-list-area {
     margin-top: 30px;
     padding-bottom: 15px;
-}
-
-.btn {
-    font-weight: 700;
-    color: #1A1935;
-    border-radius: 5px;
-    line-height: 28px;
-    padding: 12px 30px;
-    background: #05CC7C;
-    text-transform: capitalize;
-    border: 1px solid #00AC4D;
-    font-size: 16px;
-    transition: all 0.3s;
-}
-
-.video {
-    width: 60px;
-    height: 60px;
-    line-height: 60px;
-    text-align: center;
-    background: #05CC7C;
-    border-radius: 50%;
 }
 
 .about-thumb {

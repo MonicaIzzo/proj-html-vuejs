@@ -17,6 +17,9 @@ li {
     list-style: none;
 }
 
+//-------------
+// SOTTOTITOLI DI TUTTE LE PAGINE
+//-------------
 .subtitle {
 	font-size: 18px;
 	font-weight: 600;
@@ -25,13 +28,79 @@ li {
 	margin-bottom: 10px;
 	text-transform: capitalize;
 }
+
+//-------------
+// TITOLI DI TUTTE LE PAGINE
+//-------------
 .title {
 	margin-top: 10px;
 	color: #fff;
 	font-size: 50px;
+	font-weight: 700;
+}
+
+//-------------
+// BOTTONI DI TUTTE LE PAGINE
+//-------------
+.btn {
+	font-weight: 700;
+	color: #1A1935;
+	border-radius: 5px;
+	line-height: 28px;
+	padding: 12px 30px;
+	background: #05CC7C;
+	text-transform: capitalize;
+	border: 1px solid #00AC4D;
+	font-size: 16px;
+	transition: all 0.3s;
 }
 
 
 
+.btn:hover {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .25);
+	background: #1A1935;
+	color: #05CC7C;
+}
+
+.video {
+	display: block;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	background: #05CC7C;
+	border-radius: 50%;
+	color: #1A1935;
+}
+
+.video:hover {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .25);
+	background: #1A1935;
+	color: #05CC7C;
+}
+
+
+
+//-------------
+// ICONE
+//-------------
+.svg-inline--fa {
+	display: var(--fa-display, inline-block);
+	height: 1em;
+	overflow: visible;
+	vertical-align: -.125em;
+}
+
+
+//-------------
+// PARAGRAFI
+//-------------
+p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+}
 
 
